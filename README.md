@@ -10,5 +10,4 @@
 </ul>
 <br>
 <p><b>Usage</b></p>
-<p>python3 dirxploit.py host</p>
-<p>Example : python3 dirxploit.py google.com</p>
+<p>python3 dirxploit.py host<br>Example : python3 dirxploit.py google.com</p>
