@@ -1,7 +1,8 @@
 <center><h1>DirXploit</h1></center>
 <br>
 <img src="Screenshot at 2023-01-11 08-57-12.png">
-<p> DirXploit adalah tools scanning directory sama halnya seperti dirsearch,dirhunt,dll.</p>
+<p> DirXploit adalah tools scanning directory sama halnya seperti dirsearch,dirhunt,dll.
+yang membedakan dari tools scanning directory yang lain adalah di DirXploit wordlist lebih lengkap dan lebih akurat</p>
 <br>
 <p><b>Installation</b></p>
 <ul>
