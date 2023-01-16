@@ -11,4 +11,9 @@ yang membedakan dari tools scanning directory yang lain adalah di DirXploit word
 </ul>
 <br>
 <p><b>Usage</b></p>
-<p>python3 dirxploit.py host<br>Example : python3 dirxploit.py google.com</p>
+<img src="img.png">
+<ul>
+  <li>
+    <p>python3 dirxploit.py -u host<br>Example : python3 dirxploit.py -u google.com</p>
+  </li>
+</ul>
