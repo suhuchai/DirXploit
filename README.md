@@ -10,6 +10,19 @@ yang membedakan dari tools scanning directory yang lain adalah di DirXploit word
   <li>pip install -r requirements.txt</li>
 </ul>
 <br>
+<p><b>Feature</b></p>
+<ol>
+  <li>
+    <p>Custom Wordlist</p>
+  </li>
+  <li>
+    <p>RFM Directory Scanner</p>
+  </li>
+  <li>
+    <p>Wordlist 9000++</p>
+  </li>
+</ol>
+<br>
 <p><b>Usage</b></p>
 <img src="img.png">
 <ul>
