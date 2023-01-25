@@ -34,6 +34,9 @@ yang membedakan dari tools scanning directory yang lain adalah di DirXploit word
     <p>python3 dirxploit.py -h</p>
   </li>
   <li>
-    <p>python3 dirxploit.py -u host<br>Example : python3 dirxploit.py -u google.com</p>
+    <p>Basic Command :<br>python3 dirxploit.py -u host<br>Example : python3 dirxploit.py -u google.com</p>
+  </li>
+  <li>
+    <p>Change Wordlist :<br>python3 dirxploit.py -u host --wl or --wordlist<br>Example : python3 dirxploit.py -u google.com --wl or --wordlist</p>
   </li>
 </ul>
