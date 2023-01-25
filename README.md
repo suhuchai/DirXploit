@@ -25,6 +25,9 @@ yang membedakan dari tools scanning directory yang lain adalah di DirXploit word
   <li>
     <p>Wordlist 9000++</p>
   </li>
+  <li>
+    <p>save it every time you finish scanning</p>
+  </li>
 </ol>
 <br>
 <p><b>Usage</b></p>
